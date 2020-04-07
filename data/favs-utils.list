@@ -5,6 +5,8 @@ inxi
 mediainfo
 network-manager-l2tp-gnome
 network-manager-openvpn-gnome
+network-manager-ssh-gnome
+network-manager-sstp-gnome
 openssh-server
 openvpn
 p7zip-full
